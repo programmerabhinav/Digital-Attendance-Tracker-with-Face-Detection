@@ -22,7 +22,7 @@
 
 - Following the click of the 'Take Image' button It will open a camera window, recognise your face, and capture up to 50 images (you may modify the number of images it can capture). These images will be saved in the folder titled "TrainingImage". The more data you offer the algorithm about the image, the better it will be at identifying faces.
 
--The model will be trained and all of the images will be converted to numeric format so that the computer can interpret them once you click the "Train Image" button. We are training the image so that the next time we show the computer the identical face, it will quickly recognise the face.
+- The model will be trained and all of the images will be converted to numeric format so that the computer can interpret them once you click the "Train Image" button. We are training the image so that the next time we show the computer the identical face, it will quickly recognise the face.
 
 - Depending on your system, it will take some time.
 
