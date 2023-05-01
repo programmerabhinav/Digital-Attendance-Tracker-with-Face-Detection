@@ -33,18 +33,4 @@
 - After selecting the 'View Attendance' option, you can see the attendance. Records will be shown in tabular format.
 
 
-<!-- 
-### Screenshots
-
-### Simple UI
-<img src='https://github.com/SAMHITHAM/Digitalized-Attendance-using-Face-Recognition/blob/main/Project%20Snap/image1.png'>
-
-### While taking Image
-<img src='https://github.com/SAMHITHAM/Digitalized-Attendance-using-Face-Recognition/blob/main/Project%20Snap/image4.png'>
-
-## While taking Attendance
-<img src='https://github.com/SAMHITHAM/Digitalized-Attendance-using-Face-Recognition/blob/main/Project%20Snap/image8.png'>
-
-## Attendance in tabular format 
-<img src='https://github.com/SAMHITHAM/Digitalized-Attendance-using-Face-Recognition/blob/main/Project%20Snap/image7.png'> -->
 
